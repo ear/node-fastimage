@@ -1,0 +1,27 @@
+{
+  "name": "node-fastimage",
+  "version": "0.0.0",
+  "description": "Quickly determine an image's type, width, and height with only the first response packet.",
+  "main": "lib/fastimage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ear/node-fastimage.git"
+  },
+  "keywords": [
+    "fast",
+    "image",
+    "type",
+    "width",
+    "height"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8e010709aef234864f54edf1b1da950e0703132e"
+}
