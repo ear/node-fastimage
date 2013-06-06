@@ -23,5 +23,9 @@
   "author": "",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "8e010709aef234864f54edf1b1da950e0703132e"
+  "gitHead": "8e010709aef234864f54edf1b1da950e0703132e",
+  "dependencies": {
+    "request": "~2.21.0",
+    "through": "~2.3.4"
+  }
 }
